@@ -4,6 +4,7 @@ import java.awt.*;
 import java.awt.geom.RoundRectangle2D;
 import java.awt.image.BufferedImage;
 
+//Copied from StackOverflow: https://stackoverflow.com/a/7603815
 public class ImageUtil {
 
     private ImageUtil() {
